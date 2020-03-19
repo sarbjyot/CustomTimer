@@ -2,7 +2,8 @@ Here the custom library for timer with color theme change.
 
 Add the below code in project.gradle file:-
 
-allprojects {
+
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
