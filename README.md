@@ -13,7 +13,7 @@ Add the below code in project.gradle file:-
  Now Add dependency in app.gradle file:-
 
 	dependencies {
-	        implementation 'com.github.sarbjyot:customtimer:Tag'
+	        implementation 'com.github.sarbjyot:customtimer:1.0.0'
 	}
   
   Thanks
